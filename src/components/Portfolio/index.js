@@ -128,7 +128,7 @@ const Portfolio = () => {
           </a>
           </il>
           <il>
-          <a  class="fa-3x" href="resume.html" >
+          <a  class="fa-3x" href="../../assets/images/Mohamed_Soboh_Fullstack_CV.pdf" >
             <FontAwesomeIcon
               icon={faFileCsv}
               color="white"
